@@ -5,3 +5,6 @@ environment.
 Solid CS fundamentals – including data structures and algorithms
 Experience with back end architectural patterns of large, high-scale web applications
 Ability to design clean APIs and understanding of performance issues
+Location : Bangalore
+Job Type : Full-Time
+Work Mode : Hybrid
